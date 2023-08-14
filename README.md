@@ -29,9 +29,6 @@ This repository contains a simple calculator web application developed using HTM
 - Press the "=" button to calculate the result.
 - Press the "C" button to clear the input and start over.
 
-## Screenshots
-
-![Calculator Screenshot](screenshots/calculator-screenshot.png)
 
 ## Contributors
 
